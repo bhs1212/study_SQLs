@@ -7,3 +7,5 @@
 - [query wonkieun](./wonkieun/w3schools/where_and_not.sql)
 ### where_and_not : AND를 이용해 활용
 - [query hasun](./hasun/w3schools/where_and_not.sql)
+### Employees_Order_totals
+- [query hasun](./hasun/w3schools/Employees_Order_totals.sql)
