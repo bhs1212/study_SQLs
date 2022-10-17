@@ -1,6 +1,6 @@
 # study_SQLs
 study_SQLs
-
+끼워넣기 짝수
 끼워넣기 홀수
 hasun
 wonki
