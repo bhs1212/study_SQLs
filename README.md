@@ -11,3 +11,5 @@
 - [query hasun](./hasun/w3schools/Employees_Order_totals.sql)
 ### Employees_Order_totals 
 - [query wonkieun](./wonkieun/w3schools/Employees_Order_totals.sql)
+### Categories_Products_totals.sql
+- [query wonkieun](./wonkieun/w3schools/Categories_Products_totals.sql)
