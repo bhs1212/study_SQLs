@@ -15,3 +15,5 @@
 - [query hasun](./hasun/w3schools/Categories_Products_totals.sql)
 ### Categories_Products_totals
 - [query wonkieun](./wonkieun/w3schools/Categories_Products_totals.sql)
+### Categories_Products : 합계와 평균
+- [query hasun](./hasun/w3schools/CategoryName_Products.sql)
