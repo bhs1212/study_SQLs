@@ -23,3 +23,5 @@
 - [query hasun](./hasun/w3schools/CategoryName_Products_Order.sql)
 ### CategoryName_Products_Order
 - [query wonkieun](./wonkieun/w3schools/CategoryName_Products_Order.sql)
+### Categories_Products_Count
+- [query hasun](./hasun/w3schools/Categories_Products_Count.sql)
