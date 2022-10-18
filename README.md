@@ -15,3 +15,5 @@
 - [query hasun](./hasun/w3schools/Categories_Products_totals.sql)
 ### Categories_Products_totals
 - [query wonkieun](./wonkieun/w3schools/Categories_Products_totals.sql)
+### CategoryName_Products
+- [query wonkieun](./wonkieun/w3schools/Categories_Products_totals.sql)
