@@ -25,8 +25,6 @@
 - [query wonkieun](./wonkieun/w3schools/CategoryName_Products_Order.sql)
 ### Categories_Products_Count
 - [query hasun](./hasun/w3schools/Categories_Products_Count.sql)
-### Products_HAVING
-- [query hasun](./hasun/w3schools/Products_HAVING.sql)
 ### Categories_Products_Count
 - [query wonkieun](./wonkieun/w3schools/Categories_Products_Count.sql)
 ### Products_HAVING
