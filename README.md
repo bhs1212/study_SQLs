@@ -23,7 +23,13 @@
 - [query hasun](./hasun/w3schools/CategoryName_Products_Order.sql)
 ### CategoryName_Products_Order
 - [query wonkieun](./wonkieun/w3schools/CategoryName_Products_Order.sql)
+=======
 ### Categories_Products_Count
 - [query hasun](./hasun/w3schools/Categories_Products_Count.sql)
+<<<<<<< HEAD
 ### Products_HAVING
 - [query hasun](./hasun/w3schools/Products_HAVING.sql)
+=======
+### Categories_Products_Count
+- [query wonkieun](./wonkieun/w3schools/Categories_Products_Count.sql)
+>>>>>>> 277b7e9ed6b0fa8e267d73950974b8b4ed1b5c3b
