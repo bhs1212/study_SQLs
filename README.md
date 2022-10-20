@@ -31,3 +31,5 @@
 - [query hasun](./hasun/w3schools/Products_HAVING.sql)
 ### Products_HAVING
 - [query wonkieun](./wonkieun/w3schools/Products_HAVING.sql)
+### Users_Auth_names
+- [query hasun](./hasun/w3schools/Users_Auth_names.sql)
